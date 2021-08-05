@@ -1,5 +1,5 @@
 ## Hey, profile visitor! 👀
-  git commit -m "Hello, I'm a Software Developer at Riderize"
+  git commit -m "Hello, I'm a software devloper at Riderize!"
 
 ### 🧰 Toolbox
 
