@@ -11,5 +11,7 @@
 ### 📬 Contact me
 <a href="mailto:alexandrehrtm@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrehrt&show_icons=true&theme=vision-friendly-dark)
+(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrehrt&show_icons=true&cache_seconds=1800&count_private=true&theme=vision-friendly-dark)
+
+
 
