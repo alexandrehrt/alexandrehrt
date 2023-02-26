@@ -1,5 +1,4 @@
-* Software developer
-* Currently working at Riderize
+
 
 ### 🧰 Toolbox
 
